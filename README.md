@@ -15,7 +15,12 @@ Smart Investment Tracker 📈: A Python-based system using the Yahoo Finance API
 FlexJob: An online booking and management platform designed for service providers to streamline their scheduling and client management.  
 Future Startups 🚀: Always brainstorming and developing new ideas to bring to life.  
 
+Goals
+🌍 To build impactful products that solve real-world problems.
+📚 To continuously learn and grow.
+
 📚 Fun Facts  
+📖 I write philosophical poetry/ideas in my spare time.
 🧠 I'm addicted to knowledge—learning something new every day is my obsession.  
 🔬 I have an extremely curious mind and constantly think about crazy ideas.  
 For example: I am studying how plants defy gravity as they grow upwards and researched if that principle could be applied to passing through black holes.  
