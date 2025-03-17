@@ -1,8 +1,6 @@
 🚀 About Me  
-
 🏗️ I build businesses—previously launched Flexjob, an online booking and management software for service providers.  
-
-💡 I manage marketing strategies for several companies.    
+💡 I manage marketing strategies for several companies.  
 💰 I invest in real estate, stocks, and cryptocurrencies while building a solid foundation for financial growth.  
 🌱 I’m currently learning Python and developing projects to strengthen my MSc in Computing application at Imperial College London.  
 🎯 My ultimate goal is to create startups that will change the world.  
@@ -21,6 +19,7 @@ For example: I am studying how plants defy gravity as they grow upwards and rese
 📫 Connect with Me  
 Email: michalis.iosif@yahoo.com  
 Excited to connect with fellow builders, thinkers, and creators. Let’s make an impact! 🌍✨
+
 
 
 <!---
