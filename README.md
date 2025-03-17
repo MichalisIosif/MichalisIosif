@@ -1,3 +1,7 @@
+Hey there! 👋 I'm Michalis Iosif.  
+
+Welcome to my GitHub profile! I'm an entrepreneur, digital marketer, and aspiring technologist with a passion for startups, investing, and exploring the unknown.
+
 🚀 About Me  
 🏗️ I build businesses—previously launched Flexjob, an online booking and management software for service providers.  
 💡 I manage marketing strategies for several companies.  
