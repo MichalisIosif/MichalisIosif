@@ -11,10 +11,11 @@ Welcome to my GitHub profile! I'm an entrepreneur, digital marketer, and aspirin
 🔥 I’m working towards getting into Y Combinator and scaling innovative ideas.  
 
 📂 Projects  
-Smart Investment Tracker 📈: A Python-based system using the Yahoo Finance API to track investments.  
-FlexJob: An online booking and management platform designed for service providers to streamline their scheduling and client management.   
-Weather telegram bot: A Telegram bot that provides daily weather updates and clothing recommendations.  
-Future Startups 🚀: Always brainstorming and developing new ideas to bring to life.  
+1. Smart Investment Tracker 📈: A Python-based system using the Yahoo Finance API to track investments.  
+2. FlexJob: An online booking and management platform designed for service providers to streamline their scheduling and client management.   
+3. Weather telegram bot: A Telegram bot that provides daily weather updates and clothing recommendations.  
+4. MyDoulabot: A Telegram bot
+5. Future Startups 🚀: Always brainstorming and developing new ideas to bring to life.  
 
 🎯Goals    
 🌍 To build impactful products that solve real-world problems.  
