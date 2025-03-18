@@ -12,7 +12,8 @@ Welcome to my GitHub profile! I'm an entrepreneur, digital marketer, and aspirin
 
 📂 Projects  
 Smart Investment Tracker 📈: A Python-based system using the Yahoo Finance API to track investments.  
-FlexJob: An online booking and management platform designed for service providers to streamline their scheduling and client management.  
+FlexJob: An online booking and management platform designed for service providers to streamline their scheduling and client management.   
+Weather telegram bot: A Telegram bot that provides daily weather updates and clothing recommendations.  
 Future Startups 🚀: Always brainstorming and developing new ideas to bring to life.  
 
 🎯Goals    
