@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm an entrepreneur, digital marketer, and aspirin
 🏗️ I build businesses — previously launched **Flexjob**, an online booking and management software for service providers.  
 💡 I lead marketing strategy for several companies.  
 💰 I invest in real estate, stocks, and cryptocurrencies while building a foundation for long-term financial growth.  
-🌱 I’m currently learning **Python** and building projects to strengthen my MSc in Computing application at **Imperial College London**.  
+🌱 I’m currently learning **Python** and building projects
 🎯 My ultimate goal is to create startups that change the world.  
 🔥 I’m working towards getting into **Y Combinator** and scaling innovative ideas.
 
